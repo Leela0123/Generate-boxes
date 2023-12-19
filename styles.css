@@ -16,8 +16,8 @@
 
     #boxContainer {
       position: absolute;
-      width: 50%; /* Set the width of the container */
-      height: 700px; /* Set the height of the container */
+      width: 600px; /* Set the width of the container */
+      height: 300px; /* Set the height of the container */
 <!--       border: 2px solid blue; /* Optional: Add a border to visualize the container */ -->
       margin: 50px auto; /* Optional: Center the container on the page */
       float: left;
