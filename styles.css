@@ -1,0 +1,30 @@
+ 
+     *{
+      box-sizing: border-box;
+    } 
+    
+    button{
+      background-color: blue; 
+       color: white;
+    }
+   
+    body {
+      margin: 0;
+      overflow: hidden;
+      
+    }
+
+    #boxContainer {
+      position: absolute;
+      width: 50%; /* Set the width of the container */
+      height: 700px; /* Set the height of the container */
+<!--       border: 2px solid blue; /* Optional: Add a border to visualize the container */ -->
+      margin: 50px auto; /* Optional: Center the container on the page */
+      float: left;
+    }
+
+    .box {
+      background-color: black;
+      position: absolute;
+    }
+  
